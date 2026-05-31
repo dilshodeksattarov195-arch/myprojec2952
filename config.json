@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachedalculate",
+        "uuid": 12723120,
+        "checksum": "c0lmrn"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
